@@ -38,7 +38,7 @@ QR Code Scanner is a simple and efficient Android application for scanning QR co
 
 ## Screenshots
 
-![QR Code Scanner]()
+![QR Code Scanner](Sceenshot.jpg)
 
 ## Contributing
 
